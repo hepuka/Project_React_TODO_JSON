@@ -12,7 +12,7 @@ import Register from "./components/Register";
 import axios from "axios";
 
 function App() {
-  axios.defaults.baseURL = "http://192.168.1.201:3030";
+  axios.defaults.baseURL = "https://khtask.netlify.app:3030";
 
   return (
     <div>
