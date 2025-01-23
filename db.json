@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "id": "d4a9",
+      "name": "Kun-Fagyal Zoltán",
+      "createdAt": "January 23, 2025 at 1:49:58 PM UTC+1",
+      "email": "kun.fagyal.zoltan@hajdu.gov.hu",
+      "password": "Hepuka_01"
+    },
+    {
+      "id": "713a",
+      "name": "Kun-Fagyal Katalin",
+      "email": "fagyalkati@gmail.com",
+      "password": "Hepuka_01",
+      "createdAt": "2025. 01. 23."
+    },
+    {
+      "id": "2858",
+      "name": "Majoros Péter",
+      "email": "majorospeterur@gmail.com",
+      "password": "Bogyo1234@",
+      "createdAt": "2025. 01. 23."
+    }
+  ],
+  "todos": [
+    {
+      "id": "fde3",
+      "author": "Kun-Fagyal Zoltán",
+      "title": "probass",
+      "description": "proba descsss",
+      "department": "Agrár-ELBAO",
+      "date": "2025. 01. 23.",
+      "completed": false
+    }
+  ],
+  "completed": [
+    {
+      "id": "0b2r",
+      "author": "Kun-Fagyal Zoltán",
+      "title": "nyomtatni",
+      "description": "dfgdjfglgdgdfg",
+      "department": "Agrár-FMO",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "1562",
+      "author": "Kun-Fagyal Zoltán",
+      "title": "nyomtatni",
+      "description": "dfgdjfglgdgdfg",
+      "department": "Agrár",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "7153",
+      "author": "Kun-Fagyal Zoltán",
+      "title": "nyomtatni",
+      "department": "Agrár-NTO",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "03fc",
+      "title": "probajson",
+      "department": "Piac54",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "8849",
+      "author": "Kun-Fagyal Zoltán",
+      "title": "test",
+      "description": "test",
+      "department": "Katvéd-TŰZIPARB",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "4851",
+      "author": "Kun-Fagyal Zoltán",
+      "title": "zolitest",
+      "description": "test",
+      "department": "Agrár-VSZFO",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "6e3f",
+      "author": "Kun-Fagyal Zoltán",
+      "title": "test23",
+      "description": "blabla",
+      "department": "Agrár-VSZFO",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "7664",
+      "author": "Kun-Fagyal Katalin",
+      "title": "katitest",
+      "description": "test",
+      "department": "Agrár-VSZFO",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "861b",
+      "author": "Kun-Fagyal Zoltán",
+      "title": "qwert",
+      "description": "hdhdh",
+      "department": "Katvéd-VÍZÜGY",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "f0ba",
+      "author": "Kun-Fagyal Zoltán",
+      "title": "hdhdsh",
+      "description": "hhdhdsh",
+      "department": "Katvéd-TŰZIPARB",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "99e5",
+      "author": "Kun-Fagyal Zoltán",
+      "title": "tui",
+      "description": "jdhdhd",
+      "department": "Katvéd-VÍZÜGY",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "f583",
+      "author": "Kun-Fagyal Zoltán",
+      "title": "zolitest",
+      "description": "test",
+      "department": "Agrár-VSZFO",
+      "date": "2025. 01. 23.",
+      "completed": true
+    },
+    {
+      "id": "9c04",
+      "author": "Majoros Péter",
+      "title": "Valami",
+      "description": "Ez csak egy test",
+      "department": "Agrár-VSZFO",
+      "date": "2025. 01. 23.",
+      "completed": true
+    }
+  ]
+}
